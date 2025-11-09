@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+ <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/3e4a5957-25bc-4114-86ef-6df715c19ce5" />
+
 </p>
 
 <h1 align="center">Cybersecurity Core Domains</h1>
