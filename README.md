@@ -48,4 +48,3 @@ Contributions are welcome: improvements, additional templates, tools, or transla
 
 ## License
 MIT License
-
